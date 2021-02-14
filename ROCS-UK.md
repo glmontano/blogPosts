@@ -6,11 +6,13 @@ Get ready to have some fun - as we delve into the global issue of climate change
 
 ## The United Kingdom
 
-I've various fascintions with the United Kingdom. From its controversional kings, persistent colonialism, the castles beautifully held by the marvelous green lawns - the finely tuned British dialect and strong female figures from Queen Elizabeth I to Margaret Thatcher. You may even find my mornings glistering to the drums and fifes of the "British Grenediers" in preparation for battle against the multitude of unread emails on Outlook.
+I've various fascinations with the United Kingdom. From its controversial kings, persistent colonialism, the castles beautifully held by the marvelous green lawns - the finely tuned British dialect and strong female figures from Queen Elizabeth I to Margaret Thatcher. You may even find my mornings glistering to the drums and fifes of the "British Grenadiers" in preparation for battle against the multitude of unread emails on Outlook.
 
-Alas, my recent fascination - the UK's performance in reducing it's carbon emissions and the corresponding scheme.
+Alas, my recent fascination - the UK's performance in reducing it's carbon emissions. The graph below illustrates the YoY percentage changes of a country's CO2. With the exception of the USA, I selected a comparable set of countries, striving to reduce their carbon footprint. I would bet to say that the UK has edged its European neighbours
 
-<iframe width="900" height="800" frameborder="0" scrolling="no" src="//plotly.com/~gmontano/1.embed"></iframe>
+<iframe width="700" height="500" frameborder="0" scrolling="no" src="//plotly.com/~gmontano/1.embed"></iframe>
+
+The 
 
 ## The Renewable Obligation Scheme
 
