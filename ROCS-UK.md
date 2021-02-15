@@ -79,4 +79,3 @@ The table below provides detail of this mechanism across the years. The first ro
 
 ## The Value of a ROC
 
-
