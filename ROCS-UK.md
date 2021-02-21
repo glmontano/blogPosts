@@ -2,9 +2,9 @@
 
 ## Introduction
 
-The last two weeks bestowed the pleasure of learning about the UK's Renewable Obligation Scheme; specifically the fundamentals and market risks associated with trading certificates signifying compliance.
+The last two weeks bestowed the pleasure of learning about the UK's Renewable Obligation Scheme; specifically the fundamentals of trading certificates of compliance.
 
-In this post - I delve into the UK's mandate to reduce its carbon footprint, and the effect in creating demand and supply for a tradeable product.
+In this post - I delve into the UK's mandate to reduce its carbon footprint, the effect in creating demand and supply for a tradeable product and some juicy market risk analysis.
 
 ## The United Kingdom
 
@@ -74,8 +74,15 @@ The table below provides detail of this mechanism across the years. The first ro
 |                       | 10     | 11     | 12     | 13     | 14    | 15    | 16    | 17     | 18     | 19     |
 |-----------------------|--------|--------|--------|--------|-------|-------|-------|--------|--------|--------|
 | Buy Out and Late (MM) | 324.00 | 358.00 | 123.00 | 164.00 | 42.00 | 25.00 | 0.00  | 460.00 | 604.00 | 842.00 |
-| Num ROCs              | 21.30  | 25.00  | 34.40  | 44.80  | 60.80 | 71.30 | 84.40 | 90.20  | 103.20 | 107.60 |
+| Num ROCs (MM) | 21.30  | 25.00  | 34.40  | 44.80  | 60.80 | 71.30 | 84.40 | 90.20  | 103.20 | 107.60 |
 | Rec. Value            | 15.17  | 14.35  | 3.58   | 3.67   | 0.7   | 0.35  | 0     | 5.1    | 5.85   | 7.82   |
 
 ## The Value of a ROC
 
+So far we've discussed that ROCs certify compliance, which without must be met with a payment at the buy-out price. Also - holders of ROCs not only satisfy their mandate, but receive a recycle value. Alas the question - what is the true value of a ROC?
+
+Fundamentally, a good's worth is determined by the demand and supply. Demand does not refer to the Regulator as they are not paying for the ROC. Instead, demand and supply is the result of interactions between power suppliers.
+
+Power suppliers can either accumulate a ROC, or pay the buy-out price. The decision rests on what is most economical for the supplier. If the buy-out prices is too high, the cost of non-renewable energy increases and all suppliers invest in green energy. However, then - there will be no demand
+
+Recall that for the obligation period ending in 2022 the buy-out price is 50.80 GBP per ROC. Furthermore, every 2.032 MWh of non-renewable energy demands a single ROC. Therefore every MWh of non-renewable energy costs suppliers an additional 25 GBP. The UK can only sustain its mandate to reduce carbon emissions if its supplier's profit from investing in green energy exceeds 25 GBP per MWh! 
