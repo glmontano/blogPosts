@@ -1,5 +1,6 @@
 
 
+
 ## Introduction
 
 The last two weeks bestowed the pleasure of learning about the UK's Renewable Obligation Scheme; specifically the fundamentals of trading certificates of compliance.
@@ -81,8 +82,16 @@ The table below provides detail of this mechanism across the years. The first ro
 
 So far we've discussed that ROCs certify compliance, which without must be met with a payment at the buy-out price. Also - holders of ROCs not only satisfy their mandate, but receive a recycle value. Alas the question - what is the true value of a ROC?
 
-Fundamentally, a good's worth is determined by the demand and supply. Demand does not refer to the Regulator as they are not paying for the ROC. Instead, demand and supply is the result of interactions between power suppliers.
+Fundamentally, a good's worth is determined by the demand and supply. Demand does not refer to the OFGEM regulator as they are not paying for the ROC. Instead, demand and supply is the result of interactions between suppliers. To remove confusion, suppliers of renewable energy and ROCs *into the free market* will be called generators. This is an important point as a generator may hold on to their ROCs to verify compliance, and *if* they have excess ROCs may sell it into the free market. Suppliers demanding ROCs will maintain the name.
 
-Power suppliers can either accumulate a ROC, or pay the buy-out price. The decision rests on what is most economical for the supplier. If the buy-out prices is too high, the cost of non-renewable energy increases and all suppliers invest in green energy. However, then - there will be no demand
+### The Importance of the Buy-Out Price
 
-Recall that for the obligation period ending in 2022 the buy-out price is 50.80 GBP per ROC. Furthermore, every 2.032 MWh of non-renewable energy demands a single ROC. Therefore every MWh of non-renewable energy costs suppliers an additional 25 GBP. The UK can only sustain its mandate to reduce carbon emissions if its supplier's profit from investing in green energy exceeds 25 GBP per MWh! 
+Assume there is no demand for excess ROCs. Then generators are left with a worthless certificate. Furthermore, assume there is demand but the market is oversupplied. Then there are more certificates in the market than required for the population of suppliers to meet their obligation. As such, unpurchased ROCs not only have a value of zero, but all ROCs generated will receive no recycle value. All these points will discourage suppliers from investing in green energy. As such, the buy-out price plays an important role of setting the market; it is the canvas that will be painted on, and must be appropriate for the painter.
+
+The buy-out price was originally set at GBP 30.00, and designed to ensure excess demand of 10% (10% of suppliers will purchase ROCs from the free market). Thereon, the price grows at the [Retail Price Index](https://en.wikipedia.org/wiki/Retail_Price_Index).
+
+The main assumption in understanding the ROC's value is that there is excess supply, and demand. However, we will also consider a small deviation from equilibrium.
+
+<div align="center">
+<iframe src="https://www.geogebra.org/classic/z2ysxjjf?embed" width="1000" height="700" style="border: 1px solid #e4e4e4;border-radius: 4px;" frameborder="1"></iframe>
+</div>	
