@@ -1,6 +1,3 @@
-
-
-
 ## Introduction
 
 The last two weeks bestowed the pleasure of learning about the UK's Renewable Obligation Scheme; specifically the fundamentals of trading certificates of compliance.
@@ -9,9 +6,9 @@ In this post - I delve into the UK's mandate to reduce its carbon footprint, the
 
 ## The United Kingdom
 
-I've various fascinations with the United Kingdom. From its controversial kings, the castles held by the marvelous green lawns - the finely tuned British dialect and strong female figures from Queen Elizabeth I to Margaret Thatcher. You may even find my mornings glistering to the drums and fifes of the "British Grenadiers" in preparation for battle against the multitude of unread emails on Outlook.
+I've various fascinations with the United Kingdom. From its controversial kings, majestic castles, the finely tuned British dialect and strong female figures from Queen Elizabeth I to Margaret Thatcher. You may even find my mornings glistering to the drums and fifes of the "British Grenadiers" in preparation for battle against Sir Microsoft Outlook and His unread emails.
 
-And alas my newest fascination on the UK's performance in reducing carbon emissions.
+Though  my newest fascination on the UK's performance in reducing carbon emissions.
 
 Below are the YoY percentage changes of a country's CO2 output. With the exception of the USA, I selected a comparable set of countries, striving to reduce their carbon footprint.
 
@@ -92,6 +89,20 @@ The buy-out price was originally set at GBP 30.00, and designed to ensure excess
 
 The main assumption in understanding the ROC's value is that there is excess supply, and demand. However, we will also consider a small deviation from equilibrium.
 
+### Demand and Supply
+
+I've used GeoGebra to create the demand and supply application below. The price slider reflects the equilibrium, effectively anchored by the buy-out price. Though more on this later.
+
+The graph reflects ROCs sold on the free market. This is supplied in excess of those held by generators, which I've notated by $Q_{H}$. This value is negative as it's removed *from* the free market. $Q_{B}$ represents the ROCs supplied at the buy-out price, and $Q_{D}$ reflects the total number of ROCs demanded.
+
+Starting at a buy-out price of 2 GBP, clearly $Q_{B} < Q_{D}$ per our assumption that there is excess demand. Hence $Q_{D}-Q_{B}$ ROCs are purchased at the buy-out price. Click `Display Total Buy Out` to view the total amount.
+
+Ignoring operational costs, this amount is then transferred to ROC holders, which may be viewed by clicking `Display Buyout Transfer`. That is, those holders of $|Q_{H}|+Q_{B}$ ROCs receive the Total Buy Out on a pro-rata basis. Therefore  a ROC is worth more than the buy-out price since a holder not only complies, but receives the Recycle Value. As such, the equilibrium price is not 2 GBP, but 2 + $\mathbb{E}(R)$, where the latter term is the expected Recycle Value $R$. Move the slider to 2.3. This may be a more realistic example of the ROC value, which means more supply and green energy!
+
 <div align="center">
-<iframe src="https://www.geogebra.org/classic/z2ysxjjf?embed" width="1000" height="700" style="border: 1px solid #e4e4e4;border-radius: 4px;" frameborder="1"></iframe>
+<iframe src="https://www.geogebra.org/classic/z2ysxjjf?embed" width="1000" height="670" style="border: 1px solid #e4e4e4;border-radius: 4px;" frameborder="1"></iframe>
 </div>
+
+## ROC Price Analysis
+
+We've the fundamentals of ROCs - and it's time to explore actual price data.
